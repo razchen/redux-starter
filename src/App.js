@@ -1,6 +1,8 @@
 import React from 'react';
+import index from "./js/index";
 import logo from './logo.svg';
 import './App.css';
+
 
 function App() {
   return (
